@@ -1,0 +1,29 @@
+_repo: One-Way-Ticket-to-Nowhere_32754
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 32754-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Yerxa, Leroy
+    alias: Yerxa, Leroy Arnold
+    birthdate: 1915
+    deathdate: 1946
+    gutenberg_agent_id: '35833'
+    url: http://www.gutenberg.org/2009/agents/35833
+description: Like a ghost in the night a whole Mono train vanished. And it was up
+  to Jeff Blake to find out where it had gone ...
+gutenberg_issued: '2010-06-09'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '32754'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Science fiction'
+- !lcsh 'Monorail railroads -- Fiction'
+title: One-Way Ticket to Nowhere
+url: http://www.gutenberg.org/ebooks/32754
