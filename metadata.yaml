@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35833
 description: Like a ghost in the night a whole Mono train vanished. And it was up
   to Jeff Blake to find out where it had gone ...
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32754#One-Way-Ticket-to-Nowhere
 gutenberg_issued: '2010-06-09'
 gutenberg_type: Text
 identifiers:
